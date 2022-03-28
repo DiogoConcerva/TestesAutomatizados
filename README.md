@@ -21,10 +21,10 @@ Curso com 72 horas (12 h - Metodologias de Design, 12 h - Métodos Ágeis, 12 h 
 
 ## Casos de testes solicitados:
 
-![CT-003](C:\Users\diogo\OneDrive\Área de Trabalho\CT-003.jpg)
+![](https://github.com/DiogoConcerva/TestesAutomatizados/blob/main/Img/CT-003.jpg)
 
-![CT-004](C:\Users\diogo\OneDrive\Área de Trabalho\CT-004.jpg)
+![](https://github.com/DiogoConcerva/TestesAutomatizados/blob/main/Img/CT-004.jpg)
 
-![CT-005](C:\Users\diogo\OneDrive\Área de Trabalho\CT-005.jpg)
+![](https://github.com/DiogoConcerva/TestesAutomatizados/blob/main/Img/CT-005.jpg)
 
-![CT-006](C:\Users\diogo\OneDrive\Área de Trabalho\CT-006.jpg)
+![](https://github.com/DiogoConcerva/TestesAutomatizados/blob/main/Img/CT-006.jpg)
